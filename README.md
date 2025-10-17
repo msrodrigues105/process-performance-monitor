@@ -7,7 +7,7 @@ It automatically logs all metrics to a timestamped CSV file for easy analysis or
 
 ##  Features
 
--  Monitor **any process** by name (e.g., `chrome`, `notepad`, `MISTRAL Client`)
+-  Monitor **any process** by name (e.g., `chrome`, `notepad`, ...)
 -  Tracks **CPU time**, **memory usage (MB)**, **thread count**, and **handle count**
 -  Automatically updates **maximum values** during runtime
 -  Saves detailed logs to a **CSV file** for later analysis
